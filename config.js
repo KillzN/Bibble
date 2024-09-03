@@ -11,50 +11,50 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', false],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true], 
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],  
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328']
+  ['56987507251', 'Lexa ', true],
+  ['56987507251', 'Lexa ', true],
+  ['56987507251', 'Lexa ', true],
+  ['56987507251', 'Lexa ', true],
+  ['56987507251', 'Lexa ', true],
+  ['56987507251', 'Lexa ', true],
+  ['56987507251', 'Lexa ', false],
+  ['56987507251', 'Lexa ', true],
+  ['56987507251', 'Lexa ', true],
+  ['56987507251', 'Lexa ', true],
+  ['56987507251', 'Lexa ', true], 
+  ['56987507251', 'Lexa ', true],
+  ['56987507251', 'Lexa ', true], 
+  ['56987507251'],
+  ['56987507251'],
+  ['56987507251'],
+  ['56987507251'],
+  ['56987507251'], 
+  ['56987507251'],  
+  ['56987507251'],
+  ['56987507251'],
+  ['56987507251'],
+  ['56987507251'], 
+  ['56987507251'], 
+  ['56987507251'],
+  ['56987507251'],
+  ['56987507251'],
+  ['56987507251'],
+  ['56987507251'], 
+  ['56987507251'],
+  ['56987507251'],
+  ['56987507251'],
+  ['56987507251']
 ];
 
-global.suittag = ['56983073328'];
-global.prems = ['56983073328'];
+global.suittag = ['56987507251'];
+global.prems = ['56987507251'];
 
 global.packname = 'Sticker';
-global.author = 'KillzN';
-global.wm = 'KillzN';
-global.titulowm = 'KillzN';
-global.titulowm2 = `KillzN`
-global.igfg = 'KillzN';
+global.author = 'Lexa ';
+global.wm = 'Lexa ';
+global.titulowm = 'Lexa ';
+global.titulowm2 = `Lexa `
+global.igfg = 'Lexa ';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -79,16 +79,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nKillzN`;
-global.gt = 'KillzN';
-global.mysticbot = 'KillzN';
+global.wm2 = `${dia} ${fecha}\nLexa `;
+global.gt = 'Lexa ';
+global.mysticbot = 'Lexa ';
 global.channel = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '56983073328';
+global.nomorown = '56987507251';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
